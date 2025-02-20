@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ghost-in22
+- 👋 Hi, I’m Greg
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate (I’m open to suggestions, not sure yet!)
